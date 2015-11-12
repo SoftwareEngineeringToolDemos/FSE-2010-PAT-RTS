@@ -1,0 +1,1 @@
+%ALLUSERSPROFILE%\chocolatey\bin\choco install dotnet4.0 -y
