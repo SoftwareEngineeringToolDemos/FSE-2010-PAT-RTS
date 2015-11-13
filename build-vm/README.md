@@ -16,7 +16,7 @@ This folder contains the files needed to build a virtual machine for PAT-RTS usi
 The following software are installed onto a Windows 7 box:
 
 1. [Chocolatey](https://chocolatey.org/), a package manager for Windows
-2. [.Net 4.0 Framework](https://eclipse.org)
+2. [.Net 4.0 Framework](https://www.microsoft.com/en-us/download/details.aspx?id=17851)
 
 #### Windows Box
 
