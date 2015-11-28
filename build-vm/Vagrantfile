@@ -13,5 +13,9 @@ Vagrant.configure(2) do |config|
 
   config.vm.provision :shell, path: "scripts/chocolatey.bat"
   config.vm.provision :shell, path: "scripts/dotnet.bat"
+  config.vm.provision :shell, path: "scripts/PAT.bat"
+  config.vm.provision :shell, path: "scripts/desktop.bat"
+  
+  config.vm.provision :windows_reboot
   
 end
