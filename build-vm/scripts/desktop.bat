@@ -1,8 +1,8 @@
 echo Getting text files to desktop
 
-@powershell -NoProfile -ExecutionPolicy unrestricted -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/SoftwareEngineeringToolDemos/FSE-2010-PAT-RTS/raw/master/build-vm/files/Readme-PAT-RTS.txt','%userprofile%\desktop\Readme-PAT-RTS.txt');
-@powershell -NoProfile -ExecutionPolicy unrestricted -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/SoftwareEngineeringToolDemos/FSE-2010-PAT-RTS/raw/master/build-vm/files/Installation.txt','%userprofile%\desktop\Installation.txt');
-@powershell -NoProfile -ExecutionPolicy unrestricted -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/SoftwareEngineeringToolDemos/FSE-2010-PAT-RTS/raw/master/build-vm/files/Licenses.txt','%userprofile%\desktop\Licenses.txt');
+copy "C:\vagrant\files\Readme-PAT-RTS.txt" "%userprofile%\desktop\Readme-PAT-RTS.txt"
+copy "C:\vagrant\files\Installation.txt" "%userprofile%\desktop\Installation.txt"
+copy "C:\vagrant\files\Licenses.txt" "%userprofile%\desktop\Licenses.txt"
 
 echo Creating YouTube video shortcut
 
