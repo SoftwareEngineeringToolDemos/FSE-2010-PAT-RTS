@@ -17,6 +17,7 @@ The following software are installed onto a Windows 7 box:
 
 1. [Chocolatey](https://chocolatey.org/), a package manager for Windows
 2. [.Net 4.0 Framework](https://www.microsoft.com/en-us/download/details.aspx?id=17851)
+3. [Process Analysis Toolkit](http://pat.sce.ntu.edu.sg/)
 
 #### Windows Box
 
