@@ -1,5 +1,4 @@
-The latest version of Process Analysis Toolkit can be downloaded from the official website at http://pat.comp.nus.edu.sg/?page_id=2587. An account will need to be created to download from the website. 
-
+The latest version of Process Analysis Toolkit can be downloaded from the official website at http://pat.comp.nus.edu.sg/?page_id=2587. An account will need to be created to download from the website.
 
 Installation instructions (taken from the official website - http://pat.comp.nus.edu.sg/?page_id=2587):
 
@@ -17,11 +16,10 @@ Installing PAT is easy: run the setup file and follow the steps in the installat
 
 * Download PAT 3.x. But choose the directly executable version to be downloaded to some place in your computer.
 
-* In your computer, start the terminal application, use the command cd to change to the directory where you put ìPAT 3.exeî;
-    
-* Type the command mono ìPAT 3.exeî into terminal.(You might need to add execute permission as chmod +x ì./PAT 3.exeî) Bingo! You will see the GUI of our PAT.
+* In your computer, start the terminal application, use the command cd to change to the directory where you put ‚ÄúPAT 3.exe‚Äù;
+
+* Type the command mono ‚ÄúPAT 3.exe‚Äù into terminal.(You might need to add execute permission as chmod +x ‚Äú./PAT 3.exe‚Äù) Bingo! You will see the GUI of our PAT.
 
 * Currently the latest mono 2.10.x has some problem on Mac, if you meet some error related to winforms, please use the mono-2.6.7 which is available at (http://www.mono-project.com/docs/about-mono/releases/2.6.7/).
 
 Note: PAT runs faster in Windows than other OS. The reason for this is that mono is not as fast as native .NET framework.
-
