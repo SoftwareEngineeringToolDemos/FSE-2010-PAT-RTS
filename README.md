@@ -9,6 +9,6 @@ This repository _is not_ the original repository for this tool. Here are some li
 In this repository for PAT-RTS, you will find:
 * :x: Source code (not available)
 * :white_check_mark: [The original tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2010-PAT-RTS/tree/master/PAT-RTS) (available)
-* :white_check_mark: [Virtual machine containing tool](https://drive.google.com/open?id=0B3bm2hPWDaEFTFRtbm9OWkRzeUk) (available)
+* :white_check_mark: [Virtual machine containing tool](https://drive.google.com/open?id=0B3bm2hPWDaEFOVlCcjdkc3NkUW8) (available)
 
 This repository was constructed by [Yogesh Nandakumar](https://github.com/ynandak) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Yang Liu and his colleagues for their help in establishing this repository.
