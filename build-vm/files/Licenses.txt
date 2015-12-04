@@ -8,3 +8,8 @@ The Process Analysis Toolkit binaries are feely available for download and redis
 2. Microsoft .NET Framework 4.0
 
 The .Net Framework 4.0 is available for redistribution under the terms of the Microsoft .NET Framework Redistributable EULA found at https://msdn.microsoft.com/en-us/library/ms994405.aspx.
+
+
+3. Microsoft Windows 7 Enterprise edition:
+
+The license for this edition of Microsoft Windows can be found at (C:\Windows\System32\eula.txt).
